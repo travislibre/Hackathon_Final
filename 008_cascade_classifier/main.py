@@ -9,12 +9,11 @@ from vision import Vision
 # Doing this because I'll be putting the files from each video in their own folder on GitHub
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-
 # initialize the WindowCapture class
 wincap = WindowCapture()
 
 # load the trained model
-cascade_limestone = cv.CascadeClassifier('limestone_model_final.xml')
+cascade_limestone = cv.CascadeClassifier('cascade/cascade.xml')
 # load an empty Vision class
 vision_limestone = Vision(None)
 
