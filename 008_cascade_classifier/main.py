@@ -9,11 +9,12 @@ from vision import Vision
 # Doing this because I'll be putting the files from each video in their own folder on GitHub
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
+
 # initialize the WindowCapture class
-wincap = WindowCapture()
+wincap = WindowCapture('05795a16b647118ffb6629390e995adb.jpg - Paint')
 
 # load the trained model
-cascade_limestone = cv.CascadeClassifier('cascade/cascade.xml')
+cascade_limestone = cv.CascadeClassifier('limestone_model_final.xml')
 # load an empty Vision class
 vision_limestone = Vision(None)
 
@@ -35,5 +36,18 @@ while(True):
     # debug the loop rate
     print('FPS {}'.format(1 / (time() - loop_time)))
     loop_time = time()
+
+    # press 'q' with the output window focused to exit.
+    # press 'f' to save screenshot as a positive image, press 'd' to 
+    # save as a negative image.
+    # waits 1 ms every loop to process key presses
+    key = cv.waitKey(1)
+    if key == ord('q'):
+        cv.destroyAllWindows()
+        break
+    elif key == ord('f'):
+        cv.imwrite('positive/{}.jpg'.format(loop_time), screenshot)
+    elif key == ord('d'):
+        cv.imwrite('negative/{}.jpg'.format(loop_time), screenshot)
 
 print('Done.')
