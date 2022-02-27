@@ -11,7 +11,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 # initialize the WindowCapture class
-wincap = WindowCapture('Camera')
+wincap = WindowCapture()
 
 # load the trained model
 cascade_limestone = cv.CascadeClassifier('limestone_model_final.xml')
