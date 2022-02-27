@@ -1,32 +1,32 @@
-positive\14207.jpg 1 114 88 344 367
-positive\5d31e460dd8567dd1ec25741f32941a0-1.jpg 1 14 20 471 451
-positive\5d31e460dd8567dd1ec25741f32941a0.jpg 1 16 14 485 451
-positive\cf9206b9094f1359b3b33dc27adb4e52 - the-bad-the-photo.jpg 1 5 10 224 214
-positive\close-up-holding-mandarin-blue-dripping-mold-black-background-hand-blue-glove-holding-mandarin-blue-dripping-166944784.jpg 1 263 70 352 339
-positive\day60.jpg 1 12 14 515 468
-positive\day62.jpg 1 21 17 480 458
-positive\depositphotos_19486685-stock-photo-mouldy-orange.jpg 2 113 17 804 745 113 17 804 745
-positive\fefwfewefw.jpg 2 31 13 313 334 31 13 313 334
-positive\hand-holding-a-rotten-orange-against-white-isolated-background-2FMKDC0.jpg 2 160 93 593 598 160 93 593 598
-positive\images.jpg 2 21 33 180 178 21 33 180 178
-positive\istockphoto-1133366532-612x612.jpg 2 175 76 291 267 175 76 291 267
-positive\istockphoto-1133592317-1024x1024.jpg 3 177 182 703 536 177 182 703 536 177 182 703 536
-positive\istockphoto-1187568027-612x612.jpg 3 205 120 203 175 205 120 203 175 205 120 203 175
-positive\istockphoto-1226808018-612x612.jpg 3 134 66 363 333 134 66 363 333 134 66 363 333
-positive\istockphoto-490363256-612x612.jpg 3 119 143 373 358 119 143 373 358 119 143 373 358
-positive\istockphoto-902552250-1024x1024.jpg 3 261 85 515 506 261 85 515 506 261 85 515 506
-positive\moldy-orange-on-white-background-260nw-1757224676.jpg 3 115 41 185 170 115 41 185 170 115 41 185 170
-positive\moldy-rotten-orange-11018613.jpg 3 169 51 462 432 169 51 462 432 169 51 462 432
-positive\moldy-rotten-orange-8026364.jpg 3 223 69 369 370 223 69 369 370 223 69 369 370
-positive\moldy-rotten-orange-fruit-isolated-pure-white-64175883.jpg 3 80 16 707 452 80 16 707 452 80 16 707 452
-positive\moldy-rotten-orange-isolated-white-background-179162810.jpg 4 93 113 602 587 93 113 602 587 93 113 602 587 93 113 602 587
-positive\one-rotten-mandarin-isolated-white-background-one-rotten-mandarin-183994254.jpg 4 145 78 535 454 145 78 535 454 145 78 535 454 145 78 535 454
-positive\orange-avec-moule-champignon-pourri-brjfg4.jpg 2 219 77 808 708 219 77 808 708
-positive\rotten-moldy-orange-bad-citrus-260nw-280479203.jpg 4 144 27 204 217 144 27 204 217 144 27 204 217 144 27 204 217
-positive\rotten-moldy-peeled-orange-on-260nw-1343391785.jpg 3 95 32 174 154 95 32 174 154 95 32 174 154
-positive\rotten-oranges-mold-orange-isolated-white-background-studio-shot-173595607.jpg 5 258 92 353 370 258 92 353 370 258 92 353 370 258 92 353 370 258 92 353 370
-positive\rotten-organic-oranges-on-white-260nw-2110325309.jpg 3 46 12 279 245 46 12 279 245 46 12 279 245
-positive\set-rotten-moldy-oranges-tangerines-isolated-white-background-photo-growing-mold-food-contamination-bad-spoil-spoiled-113838297.jpg 4 32 11 314 364 32 11 314 364 32 11 314 364 32 11 314 364
-positive\set-rotten-moldy-oranges-tangerines-isolated-white-background-photo-growing-qwdwqWDWQcontamination-bad-spoil-spoiled-113838297.jpg 5 88 48 305 319 88 48 305 319 88 48 305 319 88 48 305 319 88 48 305 319
-positive\set-rotten-moldy-oranges-tangerines-isolated-white-background-photo-growing-sefdsewAFDsefood-contamination-bad-spoil-spoiled-113838297.jpg 2 87 56 315 314 87 56 315 314
-positive\texture-blue-mold-lemon-yellow-spoiled-rotting-green-rustic-background-citrus-fruits-fungus-fruit-180992245.jpg 2 13 38 440 434 13 38 440 434
+positive\14207.jpg 1 88 73 374 381
+positive\5d31e460dd8567dd1ec25741f32941a0-1.jpg 1 11 19 484 443
+positive\5d31e460dd8567dd1ec25741f32941a0.jpg 2 109 38 298 285 47 283 392 152
+positive\cf9206b9094f1359b3b33dc27adb4e52 - the-bad-the-photo.jpg 1 7 2 220 215
+positive\close-up-holding-mandarin-blue-dripping-mold-black-background-hand-blue-glove-holding-mandarin-blue-dripping-166944784.jpg 1 235 66 390 360
+positive\day60.jpg 1 33 16 457 446
+positive\day62.jpg 1 56 30 410 402
+positive\depositphotos_19486685-stock-photo-mouldy-orange.jpg 1 164 50 712 656
+positive\fefwfewefw.jpg 1 41 46 282 282
+positive\hand-holding-a-rotten-orange-against-white-isolated-background-2FMKDC0.jpg 1 173 101 649 615
+positive\images.jpg 1 18 26 191 181
+positive\istockphoto-1133366532-612x612.jpg 1 152 58 314 304
+positive\istockphoto-1133592317-1024x1024.jpg 1 173 201 673 508
+positive\istockphoto-1187568027-612x612.jpg 1 209 125 191 188
+positive\istockphoto-1226808018-612x612.jpg 1 115 81 399 335
+positive\istockphoto-490363256-612x612.jpg 1 134 149 341 356
+positive\istockphoto-902552250-1024x1024.jpg 1 272 138 465 440
+positive\moldy-orange-on-white-background-260nw-1757224676.jpg 1 119 48 164 162
+positive\moldy-rotten-orange-11018613.jpg 1 190 65 440 404
+positive\moldy-rotten-orange-8026364.jpg 1 184 32 410 377
+positive\moldy-rotten-orange-fruit-isolated-pure-white-64175883.jpg 1 75 24 679 442
+positive\moldy-rotten-orange-isolated-white-background-179162810.jpg 1 179 156 468 520
+positive\one-rotten-mandarin-isolated-white-background-one-rotten-mandarin-183994254.jpg 1 170 120 445 405
+positive\orange-avec-moule-champignon-pourri-brjfg4.jpg 1 221 128 887 576
+positive\rotten-moldy-orange-bad-citrus-260nw-280479203.jpg 1 146 38 203 204
+positive\rotten-moldy-peeled-orange-on-260nw-1343391785.jpg 1 98 28 176 161
+positive\rotten-oranges-mold-orange-isolated-white-background-studio-shot-173595607.jpg 1 236 91 376 344
+positive\rotten-organic-oranges-on-white-260nw-2110325309.jpg 1 64 22 250 236
+positive\set-rotten-moldy-oranges-tangerines-isolated-white-background-photo-growing-mold-food-contamination-bad-spoil-spoiled-113838297.jpg 1 65 35 271 332
+positive\set-rotten-moldy-oranges-tangerines-isolated-white-background-photo-growing-qwdwqWDWQcontamination-bad-spoil-spoiled-113838297.jpg 1 95 49 272 300
+positive\set-rotten-moldy-oranges-tangerines-isolated-white-background-photo-growing-sefdsewAFDsefood-contamination-bad-spoil-spoiled-113838297.jpg 0
+positive\texture-blue-mold-lemon-yellow-spoiled-rotting-green-rustic-background-citrus-fruits-fungus-fruit-180992245.jpg 1 9 39 458 422
